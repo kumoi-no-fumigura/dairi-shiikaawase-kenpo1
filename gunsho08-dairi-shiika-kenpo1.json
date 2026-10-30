@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/dairi-shiikaawase-kenpo1",
  "yomi": "だいりしいかあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "詩歌合（二題・各二十六番）",
+  "era": "建保元年（1213）2月26日",
+  "author": "主催 順徳天皇",
+  "desc": "元久詩歌合にならって順徳天皇の内裏で催された詩歌合。山中花夕・野外秋望の二題で、為長・範時らの漢詩に、定家・良平・為家らの和歌を番える。"
+ },
  "editions": [
   {
    "pid": "1879502",
